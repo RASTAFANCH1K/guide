@@ -14,4 +14,4 @@ export const watch = gulp.series(
   server,
 );
 
-const test = 1
+const test =
