@@ -13,3 +13,5 @@ export const watch = gulp.series(
   build,
   server,
 );
+
+const test = 1
